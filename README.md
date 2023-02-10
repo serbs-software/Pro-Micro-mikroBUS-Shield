@@ -1,4 +1,4 @@
-# Pro Micro Shield
+# Pro Micro Shield for mikroBUS click
 Arduino Pro Micro shield PCB design for connecting 2 mikroBUS click boards.
 
 This is my long borne idea for an Arduino Pro Micro shield for supporting mikroBUS click cards.
