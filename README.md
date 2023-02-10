@@ -12,6 +12,9 @@ Soon, a version with optional 5v-3.3v voltage level converters shall be added. C
 Currently, Gerber files for Pro Micro mikroBUS shield, with versions for through hole and SMD mikroBUS socket.
 Source files for PCB design are available only for KiCad 6, for though hole mikroBUS sockets only.
 
+![PCB with SMD socket](./SparkFunProMicro32U4ShieldPCB.png)
+![PCB with through hole socket](./KiCadProMicroPCB.png)
+
 Enjoy the design. It is fully opensource, aGPL3 license.
 
 Also, you might want to consider [OpenGiveBack.org](https://opengiveback.org/) guidelines if you intend to sell these designs.
