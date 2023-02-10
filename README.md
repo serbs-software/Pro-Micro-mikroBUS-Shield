@@ -14,4 +14,4 @@ Source files for PCB design are available only for KiCad 6, for though hole mikr
 
 Enjoy the design. It is fully opensource, aGPL3 license.
 
-Also, you might want to consider [OpenGiveBack.org](https:/www,opengiveback.org/) guidelines if you intend to sell these designs.
+Also, you might want to consider [OpenGiveBack.org](https://www,opengiveback.org/) guidelines if you intend to sell these designs.
